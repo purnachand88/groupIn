@@ -21,4 +21,6 @@ Privacy and Security
 ->Inbuild language translation buttons
 ->custom emojis and chat wallpapers 
 ->app icon can be changed with their own custom designs
-->Inbuilt proxy 
+->Inbuilt proxy
+->2GB storage used for more than 100 groups and chats
+
